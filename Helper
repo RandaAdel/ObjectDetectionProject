@@ -12,3 +12,6 @@ python -m ipykernel install --user --name=odenv
 #Link to check: https://www.tensorflow.org/install/source_windows#gpu
 pip install tensorflow_gpu==2.10.0
 -----------------------------------------------------------
+#Doesnt include YOLO - EfficientDet is similar tho 
+TensorFlow 2 Detection Model Zoo
+-----------------------------------------------------------
