@@ -1,0 +1,2 @@
+nvcc --version    #Check Cuda Version
+nvidia-smi        #Check the GPU VRAM 
