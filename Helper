@@ -9,3 +9,6 @@ python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=odenv
 -----------------------------------------------------------
+#Link to check: https://www.tensorflow.org/install/source_windows#gpu
+pip install tensorflow_gpu==2.10.0
+-----------------------------------------------------------
