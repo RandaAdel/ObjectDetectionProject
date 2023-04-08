@@ -1,8 +1,8 @@
 nvcc --version               #Check Cuda Version
 nvidia-smi                   #Check the GPU VRAM 
 -----------------------------------------------------------
-python -m venv odenv         #New env
-.\odenv\Scripts\activate     #Activate for Windows
+python -m venv tfod         #New env
+.\tfod\Scripts\activate     #Activate for Windows
 
 #Work with jupyter notebook 
 python -m pip install --upgrade pip
