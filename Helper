@@ -2,7 +2,7 @@ nvcc --version               #Check Cuda Version
 nvidia-smi                   #Check the GPU VRAM 
 pip install tensorflow-gpu==2.10.0 
 pip uninstall protobuf
-pip install protobuf==3.9.2
+pip install protobuf         #Let tensorflow choose the right version 
 -----------------------------------------------------------
 python -m venv tfod         #New env
 .\tfod\Scripts\activate     #Activate for Windows
